@@ -38,6 +38,8 @@ UCI心脏病二分类+可解释性分析：https://www.bilibili.com/video/[BV1Wf
 
 ## 未来更新计划
 
+LIME算法精讲、论文精读、代码实战
+
 LayerCAM论文精读
 
 MMClassification图像分类
