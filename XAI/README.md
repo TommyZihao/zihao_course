@@ -36,7 +36,7 @@ GradCAM-论文逐句精读：https://www.bilibili.com/video/BV1id4y167FF
 
 图像分类可解释性分析实战-shap工具包：https://www.bilibili.com/video/BV1vP4y1S7Xu
 
-UCI心脏病二分类+可解释性分析：https://www.bilibili.com/video/[BV1Wf4y1U7EL](https://www.bilibili.com/video/BV1Wf4y1U7EL/?spm_id_from=333.788.video.desc.click)
+UCI心脏病二分类+可解释性分析：https://www.bilibili.com/video/BV1Wf4y1U7EL
 
 ## 未来更新计划
 
