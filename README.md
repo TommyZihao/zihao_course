@@ -2,9 +2,15 @@
 
 ### 斯坦福CS231N计算机视觉公开课公开课-中文精讲：https://www.bilibili.com/video/BV1K7411W7So
 
+计算机视觉入门必学。
+
 ### 精读AI论文：https://space.bilibili.com/1900783/channel/seriesdetail?sid=250032
 
+人工智能经典论文的算法精讲、论文逐句精读、代码实战复现。
+
 ### 可解释机器学习公开课：https://github.com/TommyZihao/zihao_course/tree/main/XAI
+
+人工智能可解释性、显著性分析领域的导论、算法综述、经典论文精读、代码实战、前沿讲座。
 
 ### 两天搞定AI毕业设计之【图像分类】：https://space.bilibili.com/1900783/channel/collectiondetail?sid=606800
 
