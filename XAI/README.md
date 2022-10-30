@@ -18,13 +18,13 @@ https://space.bilibili.com/1900783
 
 CS231N中文精讲-可视化卷积神经网络：https://www.bilibili.com/video/BV1K7411W7So
 
-CAM可解释性分析-算法讲解：https://www.bilibili.com/video/BV1Ke411g7gm
+CAM算法-算法讲解：https://www.bilibili.com/video/BV1Ke411g7gm
 
-CAM可解释性论文精读：Learning Deep Features for Discriminative Localization：https://www.bilibili.com/video/BV1fe4y1C7mN
+CAM算法-论文逐句精读：Learning Deep Features for Discriminative Localization：https://www.bilibili.com/video/BV1fe4y1C7mN
 
-GradCAM深度学习可解释性分析：https://www.bilibili.com/video/BV1PD4y1B77q
+GradCAM-算法讲解：https://www.bilibili.com/video/BV1PD4y1B77q
 
-【精读AI论文】GradCAM可解释性分析：https://www.bilibili.com/video/BV1id4y167FF
+GradCAM-论文逐句精读：https://www.bilibili.com/video/BV1id4y167FF
 
 ## 代码实战
 
