@@ -1,2 +1,1 @@
-# zihao_course
-同济子豪兄的公开课
+可解释机器学习公开课：https://github.com/TommyZihao/zihao_course/tree/main/XAI
