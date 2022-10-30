@@ -6,9 +6,9 @@
 
 包含人工智能可解释性、显著性分析领域的导论、算法综述、经典论文精读、代码实战、前沿讲座。 
 
-主讲人：张子豪，OpenMMLab计算机视觉算法研究员。B站人工智能科普教育UP主“同济子豪兄”，18万粉丝。
+课程主页：https://github.com/TommyZihao/zihao_course/blob/main/XAI
 
-https://space.bilibili.com/1900783
+主讲人：张子豪，上海人工智能实验室算法研究员。B站人工智能科普教育UP主[同济子豪兄](https://space.bilibili.com/1900783)，18万粉丝。
 
 微软人工智能方向最有价值专家（MVP）、华为人工智能方向HCDE云享专家、开源社首席开源科学家。
 
