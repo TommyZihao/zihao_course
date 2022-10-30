@@ -20,11 +20,11 @@ CS231N中文精讲-可视化卷积神经网络：https://www.bilibili.com/video/
 
 CAM算法-算法讲解：https://www.bilibili.com/video/BV1Ke411g7gm
 
-CAM算法-论文逐句精读：Learning Deep Features for Discriminative Localization：https://www.bilibili.com/video/BV1fe4y1C7mN
+CAM算法-论文逐句精读：https://www.bilibili.com/video/BV1fe4y1C7mN
 
 GradCAM-算法讲解：https://www.bilibili.com/video/BV1PD4y1B77q
 
-GradCAM-论文逐句精读：Grad-CAM: Visual Explanations From Deep Networks via Gradient-Based Localization：https://www.bilibili.com/video/BV1id4y167FF
+GradCAM-论文逐句精读：https://www.bilibili.com/video/BV1id4y167FF
 
 ## 代码实战
 
