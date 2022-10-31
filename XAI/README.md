@@ -77,7 +77,9 @@ InterpretML、 Shapash、 OmniXAI工具包
 
 程明明、姜鹏涛（南开大学）
 
-赵冰辰、杨思苇（同济大学）
+赵冰辰（爱丁堡大学）
+
+杨思苇（同济大学）
 
 DataWhale
 
