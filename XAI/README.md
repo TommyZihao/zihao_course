@@ -8,7 +8,9 @@
 
 课程主页：https://github.com/TommyZihao/zihao_course/blob/main/XAI
 
-主讲人：张子豪，上海人工智能实验室算法研究员。B站人工智能科普教育UP主[同济子豪兄](https://space.bilibili.com/1900783)，18万粉丝。
+## 主讲人
+
+张子豪，上海人工智能实验室算法研究员。B站人工智能科普教育UP主[同济子豪兄](https://space.bilibili.com/1900783)，18万粉丝。
 
 微软人工智能最有价值专家（MVP）、华为人工智能HCDE云享专家、开源社首席开源科学家。
 
@@ -26,7 +28,7 @@ GradCAM-算法讲解：https://www.bilibili.com/video/BV1PD4y1B77q
 
 GradCAM-论文逐句精读：https://www.bilibili.com/video/BV1id4y167FF
 
-LIME-算法精讲：https://www.bilibili.com/video/BV12V4y1G7KF/
+LIME-算法精讲：https://www.bilibili.com/video/BV12V4y1G7KF
 
 LIME-论文逐句精读：https://www.bilibili.com/video/BV1wV4y1V7rD
 
