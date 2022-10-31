@@ -18,13 +18,17 @@
 
 CS231N中文精讲-可视化卷积神经网络：https://www.bilibili.com/video/BV1K7411W7So
 
-CAM算法-算法讲解：https://www.bilibili.com/video/BV1Ke411g7gm
+CAM-算法讲解：https://www.bilibili.com/video/BV1Ke411g7gm
 
-CAM算法-论文逐句精读：https://www.bilibili.com/video/BV1fe4y1C7mN
+CAM-论文逐句精读：https://www.bilibili.com/video/BV1fe4y1C7mN
 
 GradCAM-算法讲解：https://www.bilibili.com/video/BV1PD4y1B77q
 
 GradCAM-论文逐句精读：https://www.bilibili.com/video/BV1id4y167FF
+
+LIME-算法精讲：https://www.bilibili.com/video/BV12V4y1G7KF/
+
+LIME-论文逐句精读：https://www.bilibili.com/video/BV1wV4y1V7rD
 
 ## 代码实战
 
@@ -38,9 +42,12 @@ GradCAM-论文逐句精读：https://www.bilibili.com/video/BV1id4y167FF
 
 UCI心脏病二分类+可解释性分析：https://www.bilibili.com/video/BV1Wf4y1U7EL
 
+图像分类可解释性分析实战-lime工具包：https://www.bilibili.com/video/BV1a84y1i7Tz
+
 ## 后续更新计划
 
-LIME算法精讲、论文精读、代码实战
+
+MATLAB深度学习工具箱
 
 LayerCAM论文精读
 
@@ -50,19 +57,17 @@ MMYOLO目标检测：https://www.bilibili.com/video/BV1je4y1478R
 
 InterpretML、 Shapash、 OmniXAI工具包
 
-MATLAB深度学习工具箱
-
-
-
 前沿讲座
 
-可解释人工智能前沿（周博磊-拟邀请）
+可解释人工智能前沿（UCLA周博磊-拟邀请）
 
-从CAM到LayerCAM（程明明-拟邀请）
+从CAM到LayerCAM（南开大学程明明-拟邀请）
 
-从Machine Learning 到 Machine Teaching（赵冰辰）
+从Machine Learning 到 Machine Teaching（爱丁堡大学赵冰辰）
 
 强化学习的可解释分析（OpenDILab）
+
+自然语言处理的可解释性分析（哈工大刘挺-拟邀请）
 
 ## 致谢
 
