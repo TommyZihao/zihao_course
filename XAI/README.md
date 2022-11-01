@@ -1,6 +1,6 @@
 # 同济子豪兄-可解释机器学习公开课
 
-> 2022-10-31更新
+> 2022-11-1更新
 
 ## 课程概述
 
@@ -38,6 +38,8 @@ LIME-论文逐句精读：https://www.bilibili.com/video/BV1wV4y1V7rD
 
 ## 代码实战
 
+UCI心脏病机器学习二分类+可解释性分析：https://www.bilibili.com/video/BV1Wf4y1U7EL
+
 图像分类可解释性分析实战-CAM热力图系列算法：https://www.bilibili.com/video/BV1JG4y1s74x
 
 图像分类可解释性分析实战-Deep Feature Factorization：https://www.bilibili.com/video/BV1Re4y1n73v
@@ -45,8 +47,6 @@ LIME-论文逐句精读：https://www.bilibili.com/video/BV1wV4y1V7rD
 图像分类可解释性分析实战-Captum工具包：https://www.bilibili.com/video/BV1DN4y1N7fc
 
 图像分类可解释性分析实战-shap工具包：https://www.bilibili.com/video/BV1vP4y1S7Xu
-
-UCI心脏病二分类+可解释性分析：https://www.bilibili.com/video/BV1Wf4y1U7EL
 
 图像分类可解释性分析实战-lime工具包：https://www.bilibili.com/video/BV1a84y1i7Tz
 
