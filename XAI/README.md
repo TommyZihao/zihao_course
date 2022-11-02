@@ -32,7 +32,7 @@ GradCAM-算法讲解：https://www.bilibili.com/video/BV1PD4y1B77q
 
 GradCAM-论文逐句精读：https://www.bilibili.com/video/BV1id4y167FF
 
-LIME-算法精讲：https://www.bilibili.com/video/BV12V4y1G7KF
+LIME-算法讲解：https://www.bilibili.com/video/BV12V4y1G7KF
 
 LIME-论文逐句精读：https://www.bilibili.com/video/BV1wV4y1V7rD
 
