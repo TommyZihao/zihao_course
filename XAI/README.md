@@ -91,6 +91,8 @@ DataWhale
 
 OpenMMLab
 
+量子位（2022年11月2日微博）
+
 ## 扩展阅读
 
 ReadPaper可解释机器学习论文集：https://readpaper.com/user/collect/638623946528292864
