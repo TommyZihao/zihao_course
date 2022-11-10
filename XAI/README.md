@@ -50,8 +50,11 @@ UCI心脏病机器学习二分类+可解释性分析：https://www.bilibili.com/
 
 图像分类可解释性分析实战-lime工具包：https://www.bilibili.com/video/BV1a84y1i7Tz
 
-## 后续更新计划
+## 答疑交流微信群（有问必答）
 
+https://zdb.xet.tech/s/3Tu6DP
+
+## 后续更新计划
 
 MATLAB深度学习工具箱
 
