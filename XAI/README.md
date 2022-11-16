@@ -1,6 +1,6 @@
 # 同济子豪兄-可解释机器学习公开课
 
-> 2022-11-1更新
+> 2022-11-16更新
 
 ## 课程概述
 
@@ -50,13 +50,13 @@ UCI心脏病机器学习二分类+可解释性分析：https://www.bilibili.com/
 
 图像分类可解释性分析实战-lime工具包：https://www.bilibili.com/video/BV1a84y1i7Tz
 
+MATLAB深度学习工具箱可解释性分析实战：https://www.bilibili.com/video/BV1Qd4y1b7Mr
+
 ## 答疑交流微信群（有问必答）
 
 https://zdb.xet.tech/s/3Tu6DP
 
 ## 后续更新计划
-
-MATLAB深度学习工具箱
 
 LayerCAM论文精读
 
