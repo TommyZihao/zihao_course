@@ -16,6 +16,26 @@
 
 代表作包括精读AI经典论文、编程奇妙夜、斯坦福CS231N、CS224W中文精讲、OpenMMLab代码实战。
 
+## 预备知识
+
+预备知识：高等数学、机器学习、深度学习、计算机视觉、卷积神经网络
+
+卷积神经网络入门：公众号 人工智能小技巧 回复 卷积神经网络
+
+斯坦福CS231N计算机视觉公开课-中文精讲：https://www.bilibili.com/video/BV1K7411W7So
+
+精读AI经典论文：https://github.com/TommyZihao/zihao_course
+
+图像分类Pytorch实战：构建数据集、训练模型、预测新图、测试集评估、可解释性分析、终端部署。
+视频：https://space.bilibili.com/1900783/channel/collectiondetail?sid=606800
+代码：https://github.com/TommyZihao/Train_Custom_Dataset
+
+## 导论
+
+可解释机器学习综述
+
+卷积神经网络可视化工具
+
 ## 算法讲解与论文精读
 
 CS231N中文精讲-可视化卷积神经网络：https://www.bilibili.com/video/BV1K7411W7So
