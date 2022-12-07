@@ -40,7 +40,7 @@
 
 ## 算法讲解与论文精读
 
-CS231N中文精讲-可视化卷积神经网络：https://www.bilibili.com/video/BV1K7411W7So
+CS231N中文精讲-可视化卷积神经网络：https://www.bilibili.com/video/BV1K7411W7So?p=6
 
 ZFNet-算法讲解：https://www.bilibili.com/video/BV17b4y1m7x8
 
