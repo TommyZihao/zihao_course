@@ -106,23 +106,9 @@ InterpretML、 Shapash、 OmniXAI工具包
 
 本课程制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
 
-周博磊（UCLA）
+周博磊（UCLA）、程明明（南开大学）、姜鹏涛（浙江大学）、赵冰辰（爱丁堡大学）、杨思苇（同济大学）
 
-程明明（南开大学）
-
-姜鹏涛（浙江大学）
-
-赵冰辰（爱丁堡大学）
-
-杨思苇（同济大学）
-
-DataWhale
-
-OpenMMLab
-
-量子位（2022年11月2日微博）
-
-中国图象图形学学会-科普与教育工作委员会
+Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会
 
 ## 扩展阅读
 
@@ -131,4 +117,6 @@ ReadPaper可解释机器学习论文集：https://readpaper.com/user/collect/638
 DataWhale公众号推送【6个机器学习可解释性框架！】：https://mp.weixin.qq.com/s/GpdOQChETqh9-q0SvP6I0A
 
 OpenMMLab公众号推送【类别激活热力图可视化工具介绍】：https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485910&idx=1&sn=22aa21397b003cf40af279ae3acccac1&chksm=ebb50134dcc288220d3f941bcd8b613494c7e1371435e909c9f6e522c21e194f50c7b68f4cc4&token=1125533908&lang=zh_CN#rd
+
+【智源社区】哈工大刘挺：自然语言处理中的可解释性问题：https://mp.weixin.qq.com/s/ChDfxbKGUORjIM0PW8U68g
 
