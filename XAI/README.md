@@ -26,17 +26,9 @@
 
 精读AI经典论文：https://github.com/TommyZihao/zihao_course/tree/main/Paper
 
-图像分类Pytorch实战：构建数据集、训练模型、预测新图、测试集评估、可解释性分析、终端部署。
-
-视频：https://space.bilibili.com/1900783/channel/collectiondetail?sid=606800
-
-代码：https://github.com/TommyZihao/Train_Custom_Dataset
-
-## 导论
+## 导论综述
 
 可解释机器学习综述
-
-11款神经网络科研绘图可视化工具：https://www.bilibili.com/video/BV1TV4y1P7AP
 
 ## 算法讲解与论文精读
 
@@ -74,6 +66,16 @@ UCI心脏病机器学习二分类+可解释性分析：https://www.bilibili.com/
 
 MATLAB深度学习工具箱可解释性分析实战：https://www.bilibili.com/video/BV1Qd4y1b7Mr
 
+## 前沿讲座
+
+11款神经网络科研绘图可视化工具：https://www.bilibili.com/video/BV1TV4y1P7AP
+
+图像分类Pytorch实战：构建数据集、训练模型、预测新图、测试集评估、可解释性分析、终端部署。
+
+视频：https://space.bilibili.com/1900783/channel/collectiondetail?sid=606800
+
+代码：https://github.com/TommyZihao/Train_Custom_Dataset
+
 ## 答疑交流微信群（有问必答）
 
 https://zdb.xet.tech/s/3Tu6DP
@@ -102,7 +104,7 @@ InterpretML、 Shapash、 OmniXAI工具包
 
 ## 致谢
 
-本课程制作期间，得到了以下老师和开源组织的大力支持，在此表示感谢。
+本课程制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
 
 周博磊（UCLA）
 
