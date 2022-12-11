@@ -112,9 +112,11 @@ Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育�
 
 ## 扩展阅读
 
-ReadPaper可解释机器学习论文集：https://readpaper.com/user/collect/638623946528292864
+Datawhale《可解释机器学习公开课》来了！：https://mp.weixin.qq.com/s/jxKVMpcqcunNSXxiyCtx0Q
 
 DataWhale公众号推送【6个机器学习可解释性框架！】：https://mp.weixin.qq.com/s/GpdOQChETqh9-q0SvP6I0A
+
+ReadPaper可解释机器学习论文集：https://readpaper.com/user/collect/638623946528292864
 
 OpenMMLab公众号推送【类别激活热力图可视化工具介绍】：https://mp.weixin.qq.com/s?__biz=MzI4MDcxNTY2MQ==&mid=2247485910&idx=1&sn=22aa21397b003cf40af279ae3acccac1&chksm=ebb50134dcc288220d3f941bcd8b613494c7e1371435e909c9f6e522c21e194f50c7b68f4cc4&token=1125533908&lang=zh_CN#rd
 
