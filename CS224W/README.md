@@ -50,7 +50,9 @@ PageRank代码实战-西游记人物重要度：https://www.bilibili.com/video/B
 
 本课程制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
 
-赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）、刘焕勇（https://liuhuanyong.github.io）
+赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）、刘焕勇（360AI研究院，https://liuhuanyong.github.io）
+
+REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy/）
 
 陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
 
