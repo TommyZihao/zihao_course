@@ -52,7 +52,7 @@ PageRank代码实战-西游记人物重要度：https://www.bilibili.com/video/B
 
 赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）、刘焕勇（360AI研究院，https://liuhuanyong.github.io）
 
-REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy/）
+REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy）
 
 陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
 
