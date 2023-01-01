@@ -22,10 +22,6 @@
 
 预备知识：高等数学、概率统计、机器学习、深度学习、神经网络
 
-## 答疑交流微信群（有问必答）
-
-https://zdb.xet.tech/s/l310B
-
 ## 课程视频
 
 DeepWalk-算法讲解：https://www.bilibili.com/video/BV1o94y197vf
@@ -53,6 +49,10 @@ PageRank代码实战-西游记人物重要度：https://www.bilibili.com/video/B
 陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
 
 Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会
+
+## 答疑交流微信群（有问必答）
+
+https://zdb.xet.tech/s/l310B
 
 
 
