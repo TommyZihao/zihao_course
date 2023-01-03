@@ -64,9 +64,9 @@ REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/peo
 
 陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
 
-Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会
+Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会、开源社
 
-X-lab（https://space.bilibili.com/510793367）、开源社
+X-Lab（https://space.bilibili.com/510793367）
 
 ## 答疑交流微信群（有问必答）
 
