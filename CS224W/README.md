@@ -32,7 +32,7 @@
 
 视频：https://www.bilibili.com/video/BV1pR4y1S7GA
 
-资料：
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/1-Intro.md
 
 ## 随机游走的艺术-图嵌入
 
