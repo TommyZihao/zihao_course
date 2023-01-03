@@ -2,9 +2,17 @@
 
 ### 斯坦福CS231N计算机视觉公开课公开课-中文精讲
 
-计算机视觉入门必学。
+计算机视觉入门必学
 
 https://www.bilibili.com/video/BV1K7411W7So
+
+### 斯坦福大学CS224W图机器学习公开课-中文精讲
+
+图机器学习、图数据挖掘、图神经网络入门必学
+
+视频：https://www.bilibili.com/video/BV1pR4y1S7GA
+
+课程主页：https://github.com/TommyZihao/zihao_course/tree/main/CS224W
 
 ### 精读AI论文
 
