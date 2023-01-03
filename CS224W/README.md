@@ -1,12 +1,12 @@
-# 斯坦福CS224W图机器学习、图神经网络公开课-中文精讲
+# 斯坦福大学CS224W图机器学习公开课-同济子豪兄中文精讲
 
-> 2023-1-1更新
+> 2023-1-3更新
 
 ## 课程概述
 
 图机器学习、图数据挖掘、图神经网络、知识图谱入门必学公开课：斯坦福大学CS224W。算法讲解、论文精读、代码实战中文精讲。
 
-斯坦福CS224W课程主页：https://web.stanford.edu/class/cs224w
+官方课程主页：https://web.stanford.edu/class/cs224w
 
 同济子豪兄中文精讲课程主页：https://github.com/TommyZihao/zihao_course/tree/main/CS224W
 
@@ -28,7 +28,13 @@
 
 预备知识：高等数学、概率统计、机器学习、深度学习、神经网络
 
-## 课程视频
+## 图机器学习导论
+
+视频：https://www.bilibili.com/video/BV1pR4y1S7GA
+
+资料：
+
+## 随机游走的艺术-图嵌入
 
 DeepWalk-算法讲解：https://www.bilibili.com/video/BV1o94y197vf
 
@@ -41,6 +47,8 @@ Node2Vec-算法讲解：https://www.bilibili.com/video/BV1BS4y1E7tf
 Node2Vec-论文逐句精读：https://www.bilibili.com/video/BV1vU4y1i77T
 
 Node2Vec代码实战-《悲惨世界》小说人物图嵌入、Alias Sampling复现：https://www.bilibili.com/video/BV1VS4y1E7Me
+
+## 谷歌搜索引擎开山算法-PageRank
 
 Pagerank-算法讲解：https://www.bilibili.com/video/BV1uP411K7yN
 
