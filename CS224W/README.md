@@ -34,6 +34,12 @@
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/1-Intro.md
 
+## 图的基本表示
+
+视频：https://www.bilibili.com/video/BV1n84y1e7SF/
+
+扩展阅读：
+
 ## 随机游走的艺术-图嵌入
 
 DeepWalk-算法讲解：https://www.bilibili.com/video/BV1o94y197vf
