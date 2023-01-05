@@ -36,7 +36,7 @@
 
 ## 图的基本表示
 
-视频：https://www.bilibili.com/video/BV1n84y1e7SF/
+视频：https://www.bilibili.com/video/BV1n84y1e7SF
 
 扩展阅读：
 
