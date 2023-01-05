@@ -1,4 +1,4 @@
-# 图机器学习导论-扩展阅读
+# 图机器学习导论
 
 > 同济子豪兄 2023-1-3
 
@@ -100,3 +100,30 @@ A股、港股、美股市值最高的上市公司，哪些公司的核心资产�
 哥尼斯堡七桥问题：https://zhuanlan.zhihu.com/p/519123688
 
 2022 IDEA大会｜BIOS V2正式发布，数据驱动构建超级医学知识图谱：https://mp.weixin.qq.com/s/vuHGUtWbiIH-pJ6MZaxl5Q
+
+# 图的基本表示
+
+同济子豪兄-中文精讲视频：https://www.bilibili.com/video/BV1n84y1e7SF
+
+斯坦福原版视频：https://www.youtube.com/watch?v=P-m1Qv6-8cI&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=3
+
+## 扩展阅读
+如何解释人际交往中的「六度空间」理论，它是如何证明的？：https://www.zhihu.com/question/27492995/answer/37841402
+
+## 思考题
+
+举几个Heherogeneous Graph（异质图）的例子
+
+异质图和普通图有什么区别？
+
+举几个Bipartite Graph（二分图）的例子
+
+举几个有向图的例子
+
+如何设计本体图Ontology？
+
+为什么要把图表示成矩阵？
+
+如何从连通域的角度，理解“六度空间”理论：世界上任意两个人，可以通过不超过六个中间人，相互认识。
+
+为什么很多真实场景的图都是稀疏的？
