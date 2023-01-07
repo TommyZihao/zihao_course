@@ -28,19 +28,19 @@
 
 预备知识：高等数学、概率统计、机器学习、深度学习、神经网络
 
-## 图机器学习导论
+## 无处不在的图-图机器学习导论
 
 视频：https://www.bilibili.com/video/BV1pR4y1S7GA
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/1-Intro.md
 
-## 图的基本表示
+## 连点成线-图的基本表示
 
 视频：https://www.bilibili.com/video/BV1n84y1e7SF
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/1-Intro.md
 
-## 随机游走的艺术-图嵌入
+## 随机游走的艺术-图嵌入经典算法
 
 DeepWalk-算法讲解：https://www.bilibili.com/video/BV1o94y197vf
 
