@@ -1,6 +1,6 @@
 # 斯坦福大学CS224W图机器学习公开课-同济子豪兄中文精讲
 
-> 2023-1-5更新
+> 2023-1-10更新
 
 ## 课程概述
 
@@ -39,6 +39,16 @@
 视频：https://www.bilibili.com/video/BV1n84y1e7SF
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/1-Intro.md
+
+## 好的食材造就好的菜肴-传统图机器学习的特征工程
+
+节点特征工程：https://www.bilibili.com/video/BV1HK411175s
+
+连接特征工程：https://www.bilibili.com/video/BV1r3411m7sD
+
+全图特征工程：https://www.bilibili.com/video/BV14W4y1V7gg
+
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/2-tradition-ml.md
 
 ## 随机游走的艺术-图嵌入经典算法
 
