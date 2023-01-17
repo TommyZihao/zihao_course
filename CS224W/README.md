@@ -1,14 +1,16 @@
 # 斯坦福大学CS224W图机器学习公开课-同济子豪兄中文精讲
 
-> 2023-1-10更新
+> 2023-1-17更新
 
 ## 课程概述
 
 图机器学习、图数据挖掘、图神经网络、知识图谱入门必学公开课：斯坦福大学CS224W。算法讲解、论文精读、代码实战中文精讲。
 
-官方课程主页：https://web.stanford.edu/class/cs224w
-
 同济子豪兄中文精讲课程主页：https://github.com/TommyZihao/zihao_course/tree/main/CS224W
+
+视频合集：https://space.bilibili.com/1900783/channel/collectiondetail?sid=915098
+
+斯坦福官方课程主页：https://web.stanford.edu/class/cs224w
 
 ## 关键词
 
