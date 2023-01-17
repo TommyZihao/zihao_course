@@ -12,7 +12,9 @@
 
 ## 关键词
 
-图计算、图机器学习、图数据挖掘、图神经网络、图卷积神经网络、图深度学习、图数据库
+图计算、图机器学习、图数据挖掘、图神经网络、图卷积神经网络、图深度学习、图数据库、异质图
+
+PageRank、DeepWalk、Node2Vec、GNN、GCN、GraphSAGE、TransE、TransR
 
 搜索引擎、知识图谱、知识计算、推荐系统、社交网络、社会计算、媒体计算、网络智能、情感计算
 
@@ -49,6 +51,12 @@
 全图特征工程：https://www.bilibili.com/video/BV14W4y1V7gg
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/2-tradition-ml.md
+
+## NetworkX代码实战
+
+安装配置、创建图、节点、连接，可视化：https://www.bilibili.com/video/BV1kM41147zV
+
+图数据挖掘、北京上海地铁站点分析：https://www.bilibili.com/video/BV1LY411R7HJ
 
 ## 随机游走的艺术-图嵌入经典算法
 
