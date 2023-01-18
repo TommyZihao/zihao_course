@@ -60,7 +60,9 @@ PageRank、DeepWalk、Node2Vec、GNN、GCN、GraphSAGE、TransE、TransR
 
 图数据挖掘、北京上海地铁站点分析：https://www.bilibili.com/video/BV1LY411R7HJ
 
-## 随机游走的艺术-图嵌入经典算法
+## 随机游走的艺术-图嵌入表示学习
+
+图表示学习综述：https://www.bilibili.com/video/BV1AP4y1r7Pz
 
 DeepWalk-算法讲解：https://www.bilibili.com/video/BV1o94y197vf
 
@@ -94,9 +96,10 @@ Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育�
 
 X-Lab（https://space.bilibili.com/510793367）
 
-## 答疑交流微信群（有问必答）
+## 课程资料下载
 
-https://zdb.xet.tech/s/l310B
+https://zdb.xet.tech/s/1PNT9R
 
+包含中文笔记课件、论文笔记、Notebook代码教程、思考题、扩展阅读、答疑微信群
 
 
