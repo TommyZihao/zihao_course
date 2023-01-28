@@ -14,9 +14,9 @@
 
 ## 关键词
 
-图计算、图机器学习、图数据挖掘、图表示学习、图神经网络、图卷积神经网络、图深度学习、图数据库、异质图、
+图计算、图机器学习、图数据挖掘、图表示学习、图神经网络、图卷积神经网络、图深度学习、图数据库、异质图
 
-PageRank、DeepWalk、Node2Vec、GNN、GCN、GraphSAGE、GAT、TransE、TransR、TransD
+PageRank、DeepWalk、Node2Vec、GNN、GCN、GraphSAGE、GAT、GIN、TransE、TransR、DistMul、ComplEx
 
 搜索引擎、知识图谱、知识计算、推荐系统、社交网络、社会计算、媒体计算、网络智能、情感计算
 
