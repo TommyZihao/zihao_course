@@ -24,7 +24,7 @@ PageRank、DeepWalk、Node2Vec、GNN、GCN、GraphSAGE、GAT、GIN、TransE、Tr
 
 张子豪，B站人工智能科普教育UP主“同济子豪兄”：https://space.bilibili.com/1900783
 
-微软人工智能最有价值专家（MVP）、华为云人工智能HCDE云享专家。
+微软人工智能最有价值专家（MVP）、华为云人工智能HCDE云享专家、中国图象图形学学会-科普与教育工作委员会委员。
 
 代表作包括：精读AI经典论文、编程奇妙夜、斯坦福CS231N、CS224W中文精讲、OpenMMLab代码实战。
 
