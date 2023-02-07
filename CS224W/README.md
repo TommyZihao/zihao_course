@@ -90,7 +90,7 @@ PageRank代码实战-西游记人物重要度：https://www.bilibili.com/video/B
 
 REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy）
 
-陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
+耿珺（斯坦福大学）、陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
 
 Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会、开源社
 
