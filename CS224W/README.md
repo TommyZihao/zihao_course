@@ -76,11 +76,15 @@ Node2Vec-论文逐句精读：https://www.bilibili.com/video/BV1vU4y1i77T
 
 Node2Vec代码实战-《悲惨世界》小说人物图嵌入、Alias Sampling复现：https://www.bilibili.com/video/BV1VS4y1E7Me
 
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/3-Embedding.md
+
 ## 谷歌搜索引擎开山算法-PageRank
 
 Pagerank-算法讲解：https://www.bilibili.com/video/BV1uP411K7yN
 
 PageRank代码实战-西游记人物重要度：https://www.bilibili.com/video/BV1Wg411H7Ep
+
+扩展阅读：公众号 人工智能小技巧 回复 pagerank
 
 ## 物以类聚，人以群分-半监督节点分类
 
