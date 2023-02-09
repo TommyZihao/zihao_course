@@ -1,6 +1,6 @@
 # 斯坦福大学CS224W图机器学习公开课-同济子豪兄中文精讲
 
-> 2023-1-18更新
+> 2023-2-9更新
 
 ## 课程概述
 
@@ -81,6 +81,10 @@ Node2Vec代码实战-《悲惨世界》小说人物图嵌入、Alias Sampling复
 Pagerank-算法讲解：https://www.bilibili.com/video/BV1uP411K7yN
 
 PageRank代码实战-西游记人物重要度：https://www.bilibili.com/video/BV1Wg411H7Ep
+
+## 物以类聚，人以群分-半监督节点分类
+
+https://www.bilibili.com/video/BV1184y1G7pA
 
 ## 致谢
 
