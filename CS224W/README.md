@@ -86,6 +86,8 @@ PageRank代码实战-西游记人物重要度：https://www.bilibili.com/video/B
 
 https://www.bilibili.com/video/BV1184y1G7pA
 
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/5-Semi.md
+
 ## 致谢
 
 本课程制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
