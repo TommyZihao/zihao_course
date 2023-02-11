@@ -96,7 +96,9 @@ https://www.bilibili.com/video/BV1184y1G7pA
 
 本课程制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
 
-赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）、刘焕勇（https://liuhuanyong.github.io，360AI研究院）
+赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）
+
+李沐（亚马逊）、刘焕勇（https://liuhuanyong.github.io）
 
 REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy）
 
