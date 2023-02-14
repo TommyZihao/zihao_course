@@ -98,15 +98,15 @@ https://www.bilibili.com/video/BV1184y1G7pA
 
 赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）
 
-李沐（亚马逊）、刘焕勇（https://liuhuanyong.github.io）
+李沐（亚马逊）、刘焕勇（https://liuhuanyong.github.io ）
 
-REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy）
+REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy ）
 
 耿珺（斯坦福大学）、陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
 
 Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会、开源社
 
-X-Lab（https://space.bilibili.com/510793367）
+X-Lab（https://space.bilibili.com/510793367 ）
 
 ## 课程资料下载
 
