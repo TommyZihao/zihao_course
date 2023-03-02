@@ -96,6 +96,8 @@ https://www.bilibili.com/video/BV1184y1G7pA
 
 深度学习基础：https://www.bilibili.com/video/BV13g4y1n7b4
 
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/6-1-DL.md
+
 ## 致谢
 
 本课程制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
