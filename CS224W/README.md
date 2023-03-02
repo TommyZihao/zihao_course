@@ -92,7 +92,7 @@ https://www.bilibili.com/video/BV1184y1G7pA
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/5-Semi.md
 
-## 众口铄金，三人成虎-图神经网络
+## 三人成虎，众口铄金-图神经网络
 
 深度学习基础：https://www.bilibili.com/video/BV13g4y1n7b4
 
