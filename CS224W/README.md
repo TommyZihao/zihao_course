@@ -1,6 +1,6 @@
 # 斯坦福大学CS224W图机器学习公开课-同济子豪兄中文精讲
 
-> 2023-2-9更新
+> 2023-3-2更新
 
 ## 课程概述
 
@@ -92,6 +92,10 @@ https://www.bilibili.com/video/BV1184y1G7pA
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/5-Semi.md
 
+## 众口铄金，三人成虎-图神经网络
+
+深度学习基础：https://www.bilibili.com/video/BV13g4y1n7b4
+
 ## 致谢
 
 本课程制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
@@ -104,7 +108,9 @@ REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/peo
 
 耿珺（斯坦福大学）、陈伟（斯坦福大学）、张皓辰（斯坦福大学）、陈泓林（斯坦福大学）
 
-Datawhale、OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会、开源社
+胡锐锋（Datawhale）、人民邮电出版社异步社区
+
+OpenMMLab、量子位、中国图象图形学学会-科普与教育工作委员会、开源社
 
 X-Lab（https://space.bilibili.com/510793367 ）
 
