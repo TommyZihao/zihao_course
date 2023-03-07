@@ -1,6 +1,6 @@
 # 斯坦福大学CS224W图机器学习公开课-同济子豪兄中文精讲
 
-> 2023-3-2更新
+> 2023-3-7更新
 
 ## 课程概述
 
@@ -97,6 +97,10 @@ https://www.bilibili.com/video/BV1184y1G7pA
 深度学习基础：https://www.bilibili.com/video/BV13g4y1n7b4
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/6-1-DL.md
+
+图神经网络综述和学习路径：https://www.bilibili.com/video/BV16v4y1b7x7
+
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/6-2-GNN.md
 
 ## 致谢
 
