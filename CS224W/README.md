@@ -104,7 +104,7 @@ https://www.bilibili.com/video/BV1184y1G7pA
 
 赵冰辰（爱丁堡大学）、杨思苇（同济大学）、翁振杰（华东师范大学）
 
-李沐（亚马逊）、刘焕勇（https://liuhuanyong.github.io ）
+李沐（亚马逊）、刘焕勇（https://liuhuanyong.github.io ）、张军斌（公众号：图科学实验室）
 
 REX (ZHITAO) YING（斯坦福大学、耶鲁大学，https://cs.stanford.edu/people/rexy ）
 
