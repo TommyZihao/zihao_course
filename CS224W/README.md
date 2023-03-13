@@ -1,6 +1,6 @@
 # 斯坦福大学CS224W图机器学习公开课-同济子豪兄中文精讲
 
-> 2023-3-8更新
+> 2023-3-13更新
 
 ## 课程概述
 
@@ -107,6 +107,18 @@ https://www.bilibili.com/video/BV1184y1G7pA
 GCN算法讲解：https://www.bilibili.com/video/BV1Hs4y157Ls
 
 扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/6-3-GCN.md
+
+## 定乎内外之分，辩乎荣辱之境-图神经网络的表达能力
+
+图神经网络的表达能力：https://www.bilibili.com/video/BV1MT411Y7da
+
+扩展阅读：https://github.com/TommyZihao/zihao_course/blob/main/CS224W/8-GIN.md
+
+## Neo4j图数据库实战
+
+玩转Neo4j知识图谱和图数据挖掘：https://www.bilibili.com/video/BV1Mr4y1i7CX
+
+Neo4j医疗知识图谱智能问答机器人：https://www.bilibili.com/video/BV1uY41167Ha
 
 ## 致谢
 
