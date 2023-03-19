@@ -276,12 +276,6 @@ Real-time Facial Surface Geometry from Monocular Video on Mobile GPUs
 
 https://www.bilibili.com/video/BV1ei4y1d7zA?p=5
 
-## 资料下载
-
-下载笔记、资料、代码、扩展阅读，加入微信群，有问必答
-
-https://zdb.xet.tech/s/1zdf70
-
 ## 致谢（排名不分先后）
 
 同济子豪兄“精读人工智能经典论文”系列制作期间，得到了以下老师和组织的大力支持，在此表示感谢。
