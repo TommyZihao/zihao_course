@@ -34,7 +34,7 @@
 
 代码：https://github.com/TommyZihao/Train_Custom_Dataset
 
-## 两天搞定AI毕业设计之【语义分割】
+### 两天搞定AI毕业设计之【语义分割】
 
 使用OpenMMLab开源语义分割算法库MMSegmentation，跑通语义分割开发全流程：标注、训练、评估、预测、部署。
 
@@ -42,7 +42,7 @@
 
 代码：https://github.com/TommyZihao/MMSegmentation_Tutorials
 
-## 两天搞定AI毕业设计之【关键点检测】
+### 两天搞定AI毕业设计之【关键点检测】
 
 标注自己的关键点检测数据集，分别基于YOLOV8和MMPose两个算法库，训练关键点检测深度学习算法，并做性能评估、预测推理、应用部署。
 
