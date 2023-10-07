@@ -36,7 +36,7 @@
 
 ### 两天搞定AI毕业设计之【语义分割】
 
-使用OpenMMLab开源语义分割算法库MMSegmentation，跑通语义分割开发全流程：标注、训练、评估、预测、部署。
+使用OpenMMLab开源语义分割算法库MMSegmentation，跑通语义分割全流程：标注、训练、评估、预测、部署。
 
 视频：https://space.bilibili.com/1900783/channel/collectiondetail?sid=1631214
 
