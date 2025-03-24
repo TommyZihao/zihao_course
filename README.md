@@ -18,7 +18,7 @@
 
 人工智能经典论文的算法精讲、论文逐句精读、代码实战复现。
 
-视频：https://space.bilibili.com/1900783/channel/seriesdetail?sid=250032
+视频：https://space.bilibili.com/1900783/lists/250032?type=series
 
 ### 可解释机器学习公开课
 
@@ -30,7 +30,7 @@
 
 图像分类全流程：构建数据集、训练模型、预测新图、测试集评估、可解释性分析、终端部署。
 
-视频：https://space.bilibili.com/1900783/channel/collectiondetail?sid=606800
+视频：https://space.bilibili.com/1900783/lists/606800?type=season
 
 代码：https://github.com/TommyZihao/Train_Custom_Dataset
 
@@ -38,7 +38,7 @@
 
 使用OpenMMLab开源语义分割算法库MMSegmentation，跑通语义分割全流程：标注、训练、评估、预测、部署。
 
-视频：https://space.bilibili.com/1900783/channel/collectiondetail?sid=1631214
+视频：https://space.bilibili.com/1900783/lists/1631214?type=season
 
 代码：https://github.com/TommyZihao/MMSegmentation_Tutorials
 
@@ -46,13 +46,9 @@
 
 标注自己的关键点检测数据集，分别基于YOLOV8和MMPose两个算法库，训练关键点检测深度学习算法，并做性能评估、预测推理、应用部署。
 
-视频：https://space.bilibili.com/1900783/channel/collectiondetail?sid=1316981
+视频：https://space.bilibili.com/1900783/lists/1316981?type=season
 
 代码：https://github.com/TommyZihao/Train_Custom_Dataset
-
-
-
-
 
 
 
